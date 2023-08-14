@@ -1,4 +1,4 @@
-This repo is prepared for group project of tcss506 team 2. Reading this text file can help developer to gain a better understanding of the structure for the project.
+Welcome to WeatherTunes, a web app to suggested music based your current weather. Reading this text file can help developer to gain a better understanding of the structure for the project.
 
 # python files
 app.py is served as a Flask application that displays the weather forecast for a given location and provides a music playlist.
